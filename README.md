@@ -9,3 +9,6 @@
 ```
 
 3. Add wallet connect key to `.env`. We can get WC key from this [dashboard](https://cloud.walletconnect.com/app)
+
+
+_More about rainbow-kit [here](https://www.rainbowkit.com/docs/introduction)_
